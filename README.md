@@ -17,8 +17,7 @@ const ashraf = {
         misc: ["Firebase", "Socket.IO"]
     },
     architecture: ["Serverless Architecture", "microservices", "event-driven", "Single page applications"],
-}
-
+}```
 <!--
 **Artur-0/Artur-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
