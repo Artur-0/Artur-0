@@ -19,7 +19,7 @@ const arthur = {
 
 
 <div  align="center">
-  <a href="https://www.linkedin.com/in/arturo-romero1997/" target="_blank">
+  <a href="https://www.linkedin.com/in/arturo-romero1997/" >
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=DEB6AB" alt="LinkedIn">
   </a>
    <a href="mailto:romeroarturo597@gmail.com" mailto="romeroarturo597@gmail.com" target="_blank">
