@@ -3,7 +3,7 @@
 
 <img width="600" height="400" align="center" src="https://static.wixstatic.com/media/669128_ec1c7a78e9694aec8a07c2e48b292ae1~mv2.gif" alt="animacionProgramacion"/>
 
-<h2><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  🚀 About Me.. </h2>
+<h2><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me.. </h2>
 
 ```javascript
 const arthur = {
