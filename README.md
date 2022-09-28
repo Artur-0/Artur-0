@@ -29,7 +29,7 @@ const arthur = {
 }
 ```
 <p align="center">
- <b><i> Do you want to know more about me? Please click on the button below :) </i></b> 
+ <b><i> Do you want to know more about me? Please, click below :) </i></b> 
  </p>
 
 <div  align="center">
