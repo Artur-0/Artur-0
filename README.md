@@ -28,7 +28,9 @@ const arthur = {
     }
 }
 ```
-
+<p align="center">
+ <b><i> Do you want to know more about me? Please click on the button below :) <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" /><br></i></b> 
+ </p>
 
 <div  align="center">
   <a href="https://www.linkedin.com/in/arturo-romero1997/" >
