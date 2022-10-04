@@ -7,7 +7,7 @@
 <h2><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me </h2>
 
 
-I am proudly graduated from one of the best, or maybe the best bootcamps in South America.
+I am proudly graduated from one of the best bootcamps, or maybe, the best bootcamp in South America.
 At "Henry" I learned technical abilities to be a Full-Stack Developer, and soft skills through daily class meetings, pair programming, and the equivalent of real work experience in a final project. I learned how to work with a team and solve problems. I developed a strong mind to overcome frustration, be constant, organized, and never give up.
 
 Critical thinking, Autonomy, Resilience, Perseverance, Planification, Organization, Accountability are some of my qualities.
