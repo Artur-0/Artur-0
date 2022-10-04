@@ -7,15 +7,11 @@
 <h2><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me </h2>
 
 
-I am proudly graduated of one of the best or maybe the best bootcamp of South America.
-At "Henry" I learned the necessary technical abilities to be a Full-Stack Developer and strong soft skills through daily class meetings, pair programming, and the equivalent of a real work experience in a final project. Also I learned how to work with a team and solve problems, I developed a strong mind to overcome frustration, be constant, organized and never give up.
+I am proudly graduated from one of the best, or maybe the best bootcamps in South America.
+At "Henry" I learned technical abilities to be a Full-Stack Developer, and soft skills through daily class meetings, pair programming, and the equivalent of real work experience in a final project. I learned how to work with a team and solve problems. I developed a strong mind to overcome frustration, be constant, organized, and never give up.
 
-I always try to be in contact with the latest technology and I am always excited for the future.
-I am constantly looking for challenges and new experiences, I like to travel and know new cultures and languages.
-I like finances, economy and politics too(I am not a fan of any political party and I don't talk about it unless the other person likes it too).
-I know about the stock market, also cryptocurrencies, smart contracts and web3.
-I love sports, I play football(soccer), basketball and tennis.
-And finally I love music I play guitar and I go to concerts every time I have the chance.
+Critical thinking, Autonomy, Resilience, Perseverance, Planification, Organization, Accountability are some of my qualities.
+
 
 
 ```javascript
